@@ -1,2 +1,2 @@
 # CSS-Projecct-2
-Navigation bar in CSS
+Navigation bar using CSS
